@@ -8,8 +8,8 @@ Essential math-related C++ templates
 
 ### 1. Modular Exponentiation
 
-**File:** `ExponentiationTemplates.cpp`  
-**Description:** Calculates \( a^b % mod \) using fast binary exponentiation in logarithmic time \( \mathcal{O}(\log b) \).
+**File:** [`ExponentiationTemplates.cpp`](https://github.com/QKnot/Competitive-Programming-Mathematics-Templates/blob/main/ExponentiationTemplates.cpp)  
+**Description:** Calculates \( a^b % mod\) using fast binary exponentiation in logarithmic time \( log(b) \).
 
 ```cpp
 const int mod = 1e9 + 7;
